@@ -209,3 +209,41 @@
     display: block;
     margin: 0 auto;
 }
+.guest-section{
+    background-color: #FFF8F3;
+}
+.content-area{
+    padding: 130px 230px;
+    display: flex;
+    justify-content: space-around;
+}
+.connect-title{
+    font-size: 35px;
+    font-weight: 700;
+    color: #181818;
+    width: fit-content;
+    margin-bottom: 20px;
+}
+.media{
+    margin-top: 30px;
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+.media img{
+    display: block;
+}
+.media-text{
+    width: 562px;
+}
+.noborder{
+    border: none;
+    font-size: 16px;
+    display: block;
+    margin: 24px 0;
+    width: 461px;
+    padding: 18px 30px;
+}
+.noborder:last-child{
+    height: 180px;
+}
